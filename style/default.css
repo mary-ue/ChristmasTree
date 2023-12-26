@@ -50,3 +50,7 @@ h1, h2 {
   max-width: 1290px;
   margin: 0 auto;
 }
+
+.hide {
+  display: none;
+}
