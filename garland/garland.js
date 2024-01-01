@@ -50,6 +50,18 @@ const garlandInit = () => {
     .garland_4 {
       background-position: 0 108px;
     }
+
+    @media (max-width: 1000px) {
+      .garland-elka {
+        background-size: 20%;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .garland-elka {
+        background-size: 30%;
+      }
+    }
   `;
 
   const garlandClasses = ['garland_1', 'garland_2', 'garland_3', 'garland_4'];
