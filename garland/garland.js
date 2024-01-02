@@ -53,13 +53,13 @@ const garlandInit = () => {
 
     @media (max-width: 1000px) {
       .garland-elka {
-        background-size: 20%;
+        background-size: 18%;
       }
     }
 
     @media (max-width: 560px) {
       .garland-elka {
-        background-size: 30%;
+        background-size: 20%;
       }
     }
   `;

@@ -18,6 +18,7 @@ const createSnow = (min, max, sat) => {
     width: 20px;
     height: 20px;
     top: -20px;
+    z-index: 100;
     background-repeat: no-repeat;
     background-position: center;
     pointer-events: none;
