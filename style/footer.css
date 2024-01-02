@@ -37,7 +37,7 @@
 
 .footer__list-social {
   display: flex;
-  align-items: center;
+  align-items: start;
 }
 
 .footer__item-social {
